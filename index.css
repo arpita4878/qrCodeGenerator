@@ -1,0 +1,39 @@
+body{
+    background-color: darkslategray;
+}
+.grid{
+    height: 100vh;
+    width: 400px;
+    position: relative;
+    left: 400px;
+    text-align: center;
+
+}
+
+.container{
+    position: relative;
+
+    /* background-color: white; */
+}
+h2{
+    margin-top: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 100px;
+}
+#size{
+ width: 260px;
+ height: 25px;
+}
+#qrtext{
+width: 250px;
+height: 80px;
+}
+#generate{
+    width: 200px;
+    height: 35px;
+    background-color: brown;
+    border-radius: 20px;
+    box-shadow: 1px  1px 5px;
+    font-size: 20px;
+}
